@@ -1,0 +1,11 @@
+framework module VerifyWith1ID {
+  umbrella header "VerifyWith1ID.h"
+
+  export *
+  module * { export * }
+}
+
+module VerifyWith1ID.Swift {
+    header "VerifyWith1ID-Swift.h"
+    requires objc
+}

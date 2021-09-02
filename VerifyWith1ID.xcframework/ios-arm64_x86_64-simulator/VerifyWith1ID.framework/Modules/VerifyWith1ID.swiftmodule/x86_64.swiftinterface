@@ -1,0 +1,28 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VerifyWith1ID
+import Foundation
+import Swift
+import SystemConfiguration
+import UIKit
+@_exported import VerifyWith1ID
+public protocol VerifyWithOneIDDelegate : AnyObject {
+  func verifyWithSuccess(_ response: [Swift.String : Any])
+  func errorInVerify(_ err: Swift.String)
+}
+@objc @_inheritsConvenienceInitializers public class OneIDAccessData : ObjectiveC.NSObject {
+  public var delegate: VerifyWith1ID.VerifyWithOneIDDelegate?
+  public static let shared: VerifyWith1ID.OneIDAccessData
+  public func handle(_ url: Foundation.URL)
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class OneIDReachability {
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers public class OneID : ObjectiveC.NSObject {
+  public static let shared: VerifyWith1ID.OneID
+  public func verify(partnerID: Swift.String)
+  @objc override dynamic public init()
+  @objc deinit
+}
