@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'VerifyWith1ID'
-  s.version       = '1.0.2'
+  s.version       = '1.0.3'
   s.summary       = 'It is 1ID SDK.'
   s.homepage      = 'https://github.com/Kmphitech/1ID'
   s.license       = 'MIT'
