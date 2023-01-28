@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ydf2O6bKsPlI6/htMROLys7MJl4=
+		osQTAL+ezako2gI5MaFNDOI8XEs=
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ydf2O6bKsPlI6/htMROLys7MJl4=
+		osQTAL+ezako2gI5MaFNDOI8XEs=
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sH4Ohyu2DOs7O7NiJXB+2FE3Ug0=
+		9ONxIUUMYz5mut3jO72OqTWg1aQ=
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/VerifyWith1ID.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		sH4Ohyu2DOs7O7NiJXB+2FE3Ug0=
+		9ONxIUUMYz5mut3jO72OqTWg1aQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rrMcwWYymM4QVsx5odrd++vt9kdg169NCOT/abERIZw=
+			n2RsaIKy9BxxLQzxNmEKpVPeKV6Z5ertlQ3Mi0wWIgE=
 			</data>
 		</dict>
 		<key>Modules/VerifyWith1ID.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rrMcwWYymM4QVsx5odrd++vt9kdg169NCOT/abERIZw=
+			n2RsaIKy9BxxLQzxNmEKpVPeKV6Z5ertlQ3Mi0wWIgE=
 			</data>
 		</dict>
 		<key>Modules/VerifyWith1ID.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JtqWBRhalbCGdx4CfUVesCUXXBlbbCSJCcwSyDjxjPE=
+			62Kvh8iO/+JnWK7yDBsY7yLnammO6Q2MAWd9C3ZpNgo=
 			</data>
 		</dict>
 		<key>Modules/VerifyWith1ID.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JtqWBRhalbCGdx4CfUVesCUXXBlbbCSJCcwSyDjxjPE=
+			62Kvh8iO/+JnWK7yDBsY7yLnammO6Q2MAWd9C3ZpNgo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
